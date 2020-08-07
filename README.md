@@ -33,15 +33,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
-
+Semantic HTML is using tags that describe what they are instead of generic "open-ended" tags like <div>. Semantic tags are <header>, <section>, <body>, <h1>-<h6>
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
-
+Block level elements create a new line after the closing tag. Inline level elements can have multiple elements on one line. They both also have elements that default to that specific display type. Block default: <div>, <footer> <p> | Inline default: <a> <script> <span>
 3. What are the 4 areas of the box model?
-
+content, margin, padding, border
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
-
+cross axis
 5. Explain why git is valuable to a team of developers.
-
+It allows teams to collaborate and work on a project together and makes sure that everyone has the most recent version of the code. 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
